@@ -7,7 +7,4 @@ https://www.udacity.com/course/intro-to-ios-app-development-with-swift--ud585
 Thanks to Udacity team for such an wonderful course!<br>
 Special thanks to the course mentor, Kunal Chawla
 
-![alt tag] (https://github.com/ravindar26/Voice-recorder/tree/master/Screenshot/first.png)
-![alt tag] (https://github.com/ravindar26/Voice-recorder/tree/master/Screenshot/second.png)
-![alt tag] (https://github.com/ravindar26/Voice-recorder/tree/master/Screenshot/three.png)
 
